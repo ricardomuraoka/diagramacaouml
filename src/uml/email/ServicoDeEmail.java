@@ -1,2 +1,5 @@
-package uml.email;public class ServicoDeEmail {
+package uml.email;
+
+public abstract class ServicoDeEmail {
+    public abstract void servidor();
 }

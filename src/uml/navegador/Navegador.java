@@ -1,4 +1,4 @@
-package uml;
+package uml.navegador;
 
 public interface Navegador {
 

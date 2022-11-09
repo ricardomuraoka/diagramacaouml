@@ -1,4 +1,4 @@
-package uml;
+package uml.reprodutor;
 
 public interface ReprodutorMusical {
     void tocar();
